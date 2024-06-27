@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="八木澤里志" opf:role="aut">八木澤里志</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (5.21.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2022-12-25T11:28:17.313692+00:00"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">7dd99da9-7b5c-414d-8556-9128f0e1702e</dc:identifier>
+    <dc:identifier opf:scheme="calibre">7dd99da9-7b5c-414d-8556-9128f0e1702e</dc:identifier>
+    <dc:title>在森崎書店的日子</dc:title>
+    <meta name="calibre:title_sort" content="在森崎書店的日子"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.jpeg" media-type="image/jpeg"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id213" href="index_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="id212" href="index_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="id211" href="index_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="id210" href="index_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="index_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="index_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="index_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="index_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="index_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="index_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="index_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="index_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="index_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="images/P2.jpeg" media-type="image/jpeg"/>
+    <item id="id5" href="images/q1.jpeg" media-type="image/jpeg"/>
+    <item id="id6" href="images/q2.jpeg" media-type="image/jpeg"/>
+    <item id="id7" href="images/q3.jpeg" media-type="image/jpeg"/>
+    <item id="id8" href="images/q4.jpeg" media-type="image/jpeg"/>
+    <item id="id9" href="images/q5.jpeg" media-type="image/jpeg"/>
+    <item id="id10" href="images/q6.jpeg" media-type="image/jpeg"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference type="cover" href="titlepage.xhtml" title="Cover"/>
+  </guide>
+</package>

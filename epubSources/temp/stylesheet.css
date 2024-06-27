@@ -1,0 +1,202 @@
+.block_ {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 3;
+    page-break-after: avoid;
+    margin: 9pt 0;
+    padding: 0
+    }
+.block_4 {
+    display: block;
+    margin: 0;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    font-family: serif;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    color: #002060;
+    display: block;
+    font-family: "華康中圓體(P)", sans-serif;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 3;
+    page-break-after: avoid;
+    margin: 0;
+    padding: 0
+    }
+.block_8 {
+    color: #000;
+    display: block;
+    font-family: "華康中圓體(P)", sans-serif;
+    margin: 0;
+    padding: 0
+    }
+.block_9 {
+    display: block;
+    font-family: "華康中圓體(P)", sans-serif;
+    margin: 0;
+    padding: 0
+    }
+.block_10 {
+    display: block;
+    font-family: "華康中圓體(P)", sans-serif;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    font-family: serif;
+    font-size: 0.83333em;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_13 {
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.66667em;
+    font-weight: normal;
+    line-height: 3;
+    page-break-after: avoid;
+    margin: 9pt 0;
+    padding: 0
+    }
+.block_14 {
+    display: block;
+    font-size: 0.83333em;
+    margin: 0;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    white-space: pre-wrap
+    }
+.calibre2 {
+    font-weight: bold
+    }
+.calibre3 {
+    height: 57.8pt;
+    width: 146pt
+    }
+.calibre4 {
+    height: 37.5pt;
+    width: 48pt
+    }
+.calibre5 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    height: 34.5pt;
+    width: 31.5pt
+    }
+.calibre7 {
+    height: 58.5pt;
+    width: 146pt
+    }
+.calibre8 {
+    height: 568pt;
+    width: 399pt
+    }
+.calibre9 {
+    height: 60pt;
+    width: 154pt
+    }
+.calibre10 {
+    height: 45pt;
+    width: 32.2pt
+    }
+.calibre11 {
+    display: block;
+    font-size: 1.29167em;
+    line-height: 1.2
+    }
+.calibre12 {
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre13 {
+    display: block;
+    margin-left: 40px
+    }
+.footnote {
+    display: block;
+    margin: 1em 0
+    }
+.footnote1 {
+    display: block;
+    page-break-after: avoid;
+    margin: 1em 0
+    }
+.noteref {
+    text-decoration: none
+    }
+.text_ {
+    font-family: "Calibri", sans-serif
+    }
+.text_1 {
+    color: #002060;
+    font-family: "華康中圓體(P)", sans-serif
+    }
+.text_2 {
+    font-weight: bold;
+    text-decoration: underline
+    }
+.text_3 {
+    color: #000;
+    font-family: "華康中圓體(P)", sans-serif
+    }
+.text_4 {
+    font-family: "華康中圓體(P)", sans-serif
+    }
+.text_5 {
+    color: #002060
+    }

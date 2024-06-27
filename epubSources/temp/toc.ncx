@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="7dd99da9-7b5c-414d-8556-9128f0e1702e"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (5.21.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>在森崎書店的日子</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text>《在森崎書店的日子》</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+      <navPoint id="num_2" playOrder="2" class="chapter">
+        <navLabel>
+          <text>在森崎書店的日子</text>
+        </navLabel>
+        <content src="index_split_000.html#toc_id_2"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3" class="chapter">
+        <navLabel>
+          <text>桃子嬸嬸的歸來</text>
+        </navLabel>
+        <content src="index_split_001.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4" class="chapter">
+      <navLabel>
+        <text>《續‧在森崎書店的日子》</text>
+      </navLabel>
+      <content src="index_split_001.html#toc_id_4"/>
+      <navPoint id="num_5" playOrder="5" class="chapter">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="index_split_001.html#toc_id_5"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6" class="chapter">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="index_split_002.html"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7" class="chapter">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="index_split_002.html#toc_id_7"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8" class="chapter">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="index_split_002.html#toc_id_8"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9" class="chapter">
+        <navLabel>
+          <text>5</text>
+        </navLabel>
+        <content src="index_split_002.html#toc_id_9"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10" class="chapter">
+        <navLabel>
+          <text>6</text>
+        </navLabel>
+        <content src="index_split_002.html#toc_id_10"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11" class="chapter">
+        <navLabel>
+          <text>7</text>
+        </navLabel>
+        <content src="index_split_003.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12" class="chapter">
+        <navLabel>
+          <text>8</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_12"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13" class="chapter">
+        <navLabel>
+          <text>9</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_13"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14" class="chapter">
+        <navLabel>
+          <text>10</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_14"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15" class="chapter">
+        <navLabel>
+          <text>11</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_15"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16" class="chapter">
+        <navLabel>
+          <text>12</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_16"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17" class="chapter">
+        <navLabel>
+          <text>13</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_17"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18" class="chapter">
+        <navLabel>
+          <text>14</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_18"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19" class="chapter">
+        <navLabel>
+          <text>15</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_19"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20" class="chapter">
+        <navLabel>
+          <text>16</text>
+        </navLabel>
+        <content src="index_split_003.html#toc_id_20"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
