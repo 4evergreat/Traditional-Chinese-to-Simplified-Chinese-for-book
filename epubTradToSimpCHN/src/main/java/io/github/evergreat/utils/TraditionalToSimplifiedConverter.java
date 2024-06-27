@@ -18,6 +18,9 @@ public class TraditionalToSimplifiedConverter {
     public static void convertFile(String inputFilePath, String outputFilePath) throws IOException {
         String content = new String(Files.readAllBytes(Paths.get(inputFilePath)));
         String simplifiedContent = ZhConverterUtil.toSimple(content);
+
+        File outputFile = new File(outputFilePath);
+        outputFile.getParentFile().mkdirs(); // 确保目标目录存在
         Files.write(Paths.get(outputFilePath), simplifiedContent.getBytes());
     }
 
